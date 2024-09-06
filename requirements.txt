@@ -1,0 +1,7 @@
+Flask
+Flask-Bcrypt
+Flask-JWT-Extended
+pymongo
+Flask-PyMongo
+PyPDF2
+openai
