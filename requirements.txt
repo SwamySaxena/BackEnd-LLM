@@ -6,3 +6,4 @@ Flask-PyMongo
 PyPDF2
 openai
 flask_cors
+transformers
